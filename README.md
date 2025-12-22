@@ -1,17 +1,3 @@
-<!--
-**Disha-Gupta-892/Disha-Gupta-892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
----
 # 👋 Hi, I’m Disha
 
 **AI Engineer | Data Scientist | Automation & Robotics Enthusiast**
@@ -111,7 +97,11 @@ I’m comfortable owning problems **end to end** — from idea and data to deplo
 ---
 
 📬 **Let’s connect**
-<p>Linkedin : www.linkedin.com/in/dishag13</p>
+
+
+  E-mail  : dishagupta892@gmail.com
+   
+  Linkedin: www.linkedin.com/in/dishag13
 
 If you’re looking for someone who can **analyze, build, automate, and scale**, you’ll find real proof of work here.
 
